@@ -19,7 +19,8 @@ const experiences = [
     period: '2015 – 2018',
     description: [
       'Led network operations, maintenance, and infrastructure reliability',
-      'Managed enterprise IT systems and security protocols', 'Customer Support',
+      'Managed enterprise IT systems and security protocols', 
+      'Customer Support',
     ],
   },
   {
