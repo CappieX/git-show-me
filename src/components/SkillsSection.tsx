@@ -14,10 +14,12 @@ const skillCategories = [
   {
     title: 'Tools & Platforms',
     skills: ['Docker', 'Git', 'Ubuntu', 'macOS', 'Windows', 'Figma', 'Adobe Suite'],
+    ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=00FF9C)
   },
   {
     title: 'Data & Analytics',
-    skills: ['Tableau', 'Power BI', 'Data Visualization', 'ETL Processes', '![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=00FF9C)'],
+    skills: ['Tableau', 'Power BI', 'Data Visualization', 'ETL Processes',],
+    
   },
   {
     title: 'Specializations',
