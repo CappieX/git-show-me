@@ -17,7 +17,7 @@ const skillCategories = [
   },
   {
     title: 'Data & Analytics',
-    skills: ['Tableau', 'Power BI', 'Data Visualization', 'ETL Processes'],
+    skills: ['Tableau', 'Power BI', 'Data Visualization', 'ETL Processes', ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=00FF9C)],
   },
   {
     title: 'Specializations',
