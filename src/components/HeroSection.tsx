@@ -81,7 +81,7 @@ const HeroSection = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-4 animate-fade-in delay-600">
             <a
-              href="https://github.com/FitsumMuluworkem"
+              href="https://github.com/cappiex"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-secondary/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300"
@@ -89,7 +89,7 @@ const HeroSection = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/fitsum-mulugeta"
+              href="https://www.linkedin.com/in/fitsum-mulugeta-39454750"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-secondary/50 border border-border/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all duration-300"
