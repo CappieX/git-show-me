@@ -6,7 +6,7 @@ const contactInfo = [
     icon: Mail,
     label: 'Email',
     value: 'fitsum@enumtechnologies.com',
-    href: 'mailto:fitsum@enumtechnologies.com',
+    href: 'mailto:fitmulugeta@gmail.com.com',
   },
   {
     icon: MapPin,
@@ -76,7 +76,7 @@ const ContactSection = () => {
                 {/* Social Links */}
                 <div className="flex items-center gap-4">
                   <a
-                    href="https://github.com/FitsumMuluworkem"
+                    href="https://github.com/cappiex"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-lg bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-all"
@@ -84,7 +84,7 @@ const ContactSection = () => {
                     <Github className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://linkedin.com/in/fitsum-mulugeta"
+                    href="https://www.linkedin.com/in/fitsum-mulugeta-39454750"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-lg bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-all"
