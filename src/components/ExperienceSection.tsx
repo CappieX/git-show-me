@@ -2,7 +2,7 @@ import { Building2, Calendar, MapPin } from 'lucide-react';
 
 const experiences = [
   {
-    title: 'Founder & IT Specialist',
+    title: 'Founder, Lead Architect & Full-Stack Engineer',
     company: 'Enum Technologies',
     period: '2019 – Present',
     description: [
@@ -14,16 +14,16 @@ const experiences = [
     current: true,
   },
   {
-    title: 'IT Specialist',
+    title: 'IT Support Specialist',
     company: 'Seferian & Co.',
     period: '2015 – 2018',
     description: [
       'Led network operations, maintenance, and infrastructure reliability',
-      'Managed enterprise IT systems and security protocols',
+      'Managed enterprise IT systems and security protocols', 'Customer Support',
     ],
   },
   {
-    title: 'IT Network Administrator',
+    title: 'IT Systems & Network Administrator',
     company: 'Adulala Resort & Spa',
     period: '2014 – 2015',
     description: [
@@ -32,7 +32,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Sales & IT Support',
+    title: 'Sales & Technical Support',
     company: 'Zamnet Electronics PLC',
     period: '2013 – 2014',
     description: [
@@ -41,7 +41,7 @@ const experiences = [
     ],
   },
   {
-    title: 'IT Consultant',
+    title: 'IT Consultant & Support',
     company: 'Conmech Engineering PLC',
     period: '2011 – 2013',
     description: [
