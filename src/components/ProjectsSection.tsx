@@ -8,7 +8,7 @@ const featuredProjects = [
   {
     title: 'Enum HMS',
     description: 'A comprehensive Hospital Management System designed for Ethiopian healthcare facilities. Built with modern technologies to streamline patient management, billing, and medical records.',
-    tags: ['Laravel', 'React', 'MySQL', 'REST API'],
+    tags: ['C# WinForms (.NET Framework)', 'Application Logic: C# (.NET)', 'Microsoft SQL Server Express', 'ADO.NET', 'Desktop-based Client–Database Architecture',],
     icon: Layers,
     status: 'In Development',
   },
