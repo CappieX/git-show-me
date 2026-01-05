@@ -155,11 +155,11 @@ const SkillsSection = () => {
           {/* Stats */}
           <div className="mt-16 grid md:grid-cols-3 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold gradient-text">15+</div>
+              <div className="text-4xl font-bold gradient-text">10+</div>
               <div className="text-muted-foreground">Years Experience</div>
             </div>
             <div>
-              <div className="text-4xl font-bold gradient-text">50+</div>
+              <div className="text-4xl font-bold gradient-text">25+</div>
               <div className="text-muted-foreground">Projects Delivered</div>
             </div>
             <div>
