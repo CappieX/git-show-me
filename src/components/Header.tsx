@@ -58,7 +58,7 @@ const Header = () => {
           {/* Social Links & CTA */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://github.com/FitsumMuluworkem"
+              href="https://github.com/cappiex"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-foreground transition-colors"
@@ -66,7 +66,7 @@ const Header = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/fitsum-mulugeta"
+              href="https://www.linkedin.com/in/fitsum-mulugeta-39454750"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-foreground transition-colors"
@@ -106,7 +106,7 @@ const Header = () => {
               ))}
               <div className="flex items-center gap-3 px-4 pt-4 border-t border-border/50 mt-2">
                 <a
-                  href="https://github.com/FitsumMuluworkem"
+                  href="https://github.com/cappiex"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 text-muted-foreground hover:text-foreground transition-colors"
@@ -114,7 +114,7 @@ const Header = () => {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/fitsum-mulugeta"
+                  href="https://www.linkedin.com/in/fitsum-mulugeta-39454750"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 text-muted-foreground hover:text-foreground transition-colors"
