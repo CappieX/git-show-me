@@ -13,6 +13,7 @@ const experiences = [
       'Engineered isolated sub-module architecture preventing main project conflicts via Git submodule strategy',
       'Resolved complex merge conflicts and managed PR workflow across 30+ commits with rebase strategy'
     ],
+    current: true,
   },
   {
     title: 'Founder, Lead Architect & Full-Stack Engineer',
@@ -24,7 +25,7 @@ const experiences = [
       'Leads digital transformation and data-driven system development',
       'Developing Enum HMS and AI-powered emotional intelligence systems',
     ],
-    current: true,
+    
   },
   {
     title: 'IT Support Specialist',
