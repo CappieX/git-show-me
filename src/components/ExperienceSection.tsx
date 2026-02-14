@@ -1,7 +1,6 @@
 import { Building2, Calendar, MapPin } from 'lucide-react';
 
 const experiences = [
-  {
     {
     title: 'Principal Software Engineer (E-commerce Module) | iHealth & Wellness',
     company: 'iHealth & Wellness',
