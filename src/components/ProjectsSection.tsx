@@ -197,7 +197,7 @@ const ProjectsSection = () => {
                 </p>
                 <Button variant="outline" asChild>
                   <a
-                    href={`https://github.com/${CappieX}`}
+                    href={`https://github.com/${GITHUB_USERNAME}`}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -233,7 +233,7 @@ const ProjectsSection = () => {
             </p>
             <Button variant="hero" size="lg" asChild>
               <a
-                href={`https://github.com/${CappieX}`}
+                href={`https://github.com/${GITHUB_USERNAME}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="gap-2"
