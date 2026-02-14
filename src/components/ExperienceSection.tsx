@@ -1,20 +1,19 @@
 import { Building2, Calendar, MapPin } from 'lucide-react';
 
 const experiences = [
-    {
+  {
     title: 'Principal Software Engineer (E-commerce Module) | iHealth & Wellness',
     company: 'iHealth & Wellness',
     period: '2026 – Present',
     description: [
-    'Architected multi-step checkout flow (Delivery → Payment → Confirmation) with state persistence',
-    'Built automated SVG conversion pipeline using Sharp.js, reducing asset size by 65% (245KB → 42KB avg)',
-    'Implemented dual-gateway payment integration (Stripe PaymentIntents + PayPal Orders API) with idempotency keys',
-    'Developed interactive React components with zoom/rotate transforms and localStorage cart sync',
-    'Engineered isolated sub-module architecture preventing main project conflicts via Git submodule strategy',
-    'Resolved complex merge conflicts and managed PR workflow across 30+ commits with rebase strategy'
-      ],
-  
-    },
+      'Architected multi-step checkout flow (Delivery → Payment → Confirmation) with state persistence',
+      'Built automated SVG conversion pipeline using Sharp.js, reducing asset size by 65% (245KB → 42KB avg)',
+      'Implemented dual-gateway payment integration (Stripe PaymentIntents + PayPal Orders API) with idempotency keys',
+      'Developed interactive React components with zoom/rotate transforms and localStorage cart sync',
+      'Engineered isolated sub-module architecture preventing main project conflicts via Git submodule strategy',
+      'Resolved complex merge conflicts and managed PR workflow across 30+ commits with rebase strategy'
+    ],
+  },
   {
     title: 'Founder, Lead Architect & Full-Stack Engineer',
     company: 'Enum Technologies',
